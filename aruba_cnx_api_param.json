@@ -1,0 +1,12 @@
+{
+    "CLIENT_ID": "★Client ID★",
+    "CLIENT_SECRET": "★Client secret★",
+    "BASE_URL": "jp1.api.central.arubanetworks.com",
+    "API_REQUEST": "/network-monitoring/v1alpha1/aps",
+    "API_METHOD": "GET",
+    "API_PARAM": {
+        "limit": 2
+    },
+    "RESULT_FILENAME": "aruba_cnx_api_result.txt",
+    "SLEEP_SEC": 10
+}
